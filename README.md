@@ -8,6 +8,9 @@ The chatbot answers questions **only from the retrieved transcript context**, he
 
 ---
 
+<img width="1919" height="983" alt="image" src="https://github.com/user-attachments/assets/78d4961f-9995-48a3-968f-f80964c62e25" />
+
+
 ## 🚀 Features
 
 * 🔗 **YouTube URL Support**
